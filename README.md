@@ -16,3 +16,6 @@ This project requires **SDL3** for rendering, input handling, and window managem
 - Visit the official SDL website: [https://github.com/libsdl-org/SDL](https://github.com/libsdl-org/SDL)
 
 **Note:** This project uses SDL3 and was built using the C17 standard. Development and testing were performed on Windows 11 with Visual Studio 2022. Compatibility with other platforms (Linux, macOS) has not been tested.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
