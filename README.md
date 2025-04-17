@@ -7,7 +7,7 @@ This project is a simple 2D AABB (Axis-Aligned Bounding Box) collision detection
 - **Distance Calculations:** Calculates the distance between the mouse and a fixed box, as well as the distance between two moving boxes.
 - **Real-Time Interaction:** One rectangle follows the mouse, with an option to toggle this behavior.
 
-
+![demo](https://github.com/user-attachments/assets/9445c5e6-c975-4831-ac59-62db0cf2d91c)
 
 ## Dependencies
 This project requires **SDL3** for rendering, input handling, and window management.
